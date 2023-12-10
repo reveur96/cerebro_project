@@ -1,0 +1,74 @@
+[
+  {
+    "tagId": 8,
+    "tagName": "대기중",
+    "tagTypeId": 1,
+    "tagType": {
+      "tagType": "tagType(?)",
+      "tagState": "PUBLIC"
+    }
+  },
+  {
+    "tagId": 7,
+    "tagName": "서울",
+    "tagTypeId": 2,
+    "tagType": {
+      "tagType": "tagType(?)",
+      "tagState": "PUBLIC"
+    }
+  },
+  {
+    "tagId": 6,
+    "tagName": "경기",
+    "tagTypeId": 2,
+    "tagType": {
+      "tagType": "tagType(?)",
+      "tagState": "PUBLIC"
+    }
+  },
+  {
+    "tagId": 5,
+    "tagName": "진행중",
+    "tagTypeId": 1,
+    "tagType": {
+      "tagType": "tagType(?)",
+      "tagState": "PUBLIC"
+    }
+  },
+  {
+    "tagId": 4,
+    "tagName": "모집 완료",
+    "tagTypeId": 1,
+    "tagType": {
+      "tagType": "tagType(?)",
+      "tagState": "PUBLIC"
+    }
+  },
+  {
+    "tagId": 3,
+    "tagName": "예외",
+    "tagTypeId": 1,
+    "tagType": {
+      "tagType": "tagType(?)",
+      "tagState": "PUBLIC"
+    }
+  },
+  {
+    "tagId": 2,
+    "tagName": "가나다라마바사아자차카타파하",
+    "tagTypeId": 2,
+    "tagType": {
+      "tagType": "tagType(?)",
+      "tagState": "PUBLIC"
+    }
+  },
+  {
+    "tagId": 1,
+    "tagName": "OB맥주~",
+    "tagTypeId": 3,
+    "tagType": {
+      "tagType": "tagType(?)",
+      "tagState": "PRIVATE"
+    }
+  }
+]

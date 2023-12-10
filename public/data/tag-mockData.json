@@ -1,0 +1,138 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "data": [
+    {
+      "id": 1,
+      "createdAt": "2023-06-14T06:34:13.473Z",
+      "updatedAt": "2023-06-14T06:34:13.473Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "진행상태",
+      "tagStateId": {
+        "id": 1,
+        "tagState": "public"
+      }
+    },
+    {
+      "id": 2,
+      "createdAt": "2023-06-14T06:34:40.411Z",
+      "updatedAt": "2023-06-14T06:34:40.411Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "지역",
+      "tagStateId": {
+        "id": 1,
+        "tagState": "public"
+      }
+    },
+    {
+      "id": 3,
+      "createdAt": "2023-06-14T06:36:40.784Z",
+      "updatedAt": "2023-06-14T06:36:40.784Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "유저번호1",
+      "tagStateId": {
+        "id": 2,
+        "tagState": "private"
+      }
+    },
+    {
+      "id": 4,
+      "createdAt": "2023-06-14T06:39:22.677Z",
+      "updatedAt": "2023-06-14T06:39:22.677Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "유저번호2",
+      "tagStateId": {
+        "id": 2,
+        "tagState": "private"
+      }
+    },
+    {
+      "id": 5,
+      "createdAt": "2023-06-14T06:50:23.597Z",
+      "updatedAt": "2023-06-14T06:50:23.597Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "유저번호3",
+      "tagStateId": {
+        "id": 2,
+        "tagState": "private"
+      }
+    },
+    {
+      "id": 6,
+      "createdAt": "2023-06-14T06:50:28.365Z",
+      "updatedAt": "2023-06-14T06:50:28.365Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "유저번호4",
+      "tagStateId": {
+        "id": 2,
+        "tagState": "private"
+      }
+    },
+    {
+      "id": 7,
+      "createdAt": "2023-06-14T07:21:47.095Z",
+      "updatedAt": "2023-06-14T07:21:47.095Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "유저번호5",
+      "tagStateId": {
+        "id": 2,
+        "tagState": "private"
+      }
+    },
+    {
+      "id": 8,
+      "createdAt": "2023-06-14T07:31:38.277Z",
+      "updatedAt": "2023-06-14T07:31:38.277Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "지역",
+      "tagStateId": {
+        "id": 2,
+        "tagState": "private"
+      }
+    },
+    {
+      "id": 9,
+      "createdAt": "2023-06-14T07:34:20.910Z",
+      "updatedAt": "2023-06-14T07:34:20.910Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "진행상태",
+      "tagStateId": {
+        "id": 2,
+        "tagState": "private"
+      }
+    },
+    {
+      "id": 15,
+      "createdAt": "2023-06-14T07:35:54.001Z",
+      "updatedAt": "2023-06-14T07:35:54.001Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "유저번호6",
+      "tagStateId": {
+        "id": 2,
+        "tagState": "private"
+      }
+    },
+    {
+      "id": 16,
+      "createdAt": "2023-06-14T09:22:04.427Z",
+      "updatedAt": "2023-06-14T09:22:04.427Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "유저번호7",
+      "tagStateId": {
+        "id": 2,
+        "tagState": "private"
+      }
+    }
+  ]
+}

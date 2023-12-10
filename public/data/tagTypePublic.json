@@ -1,0 +1,348 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "data": [
+    {
+      "id": 1,
+      "createdAt": "2023-06-14T06:34:13.473Z",
+      "updatedAt": "2023-06-14T06:34:13.473Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "진행상태",
+      "tagStateId": {
+        "id": 1,
+        "tagState": "public"
+      },
+      "tag": [
+        {
+          "tagId": 1,
+          "tagName": "대기중"
+        },
+        {
+          "tagId": 2,
+          "tagName": "진행중"
+        },
+        {
+          "tagId": 3,
+          "tagName": "모집완료"
+        },
+        {
+          "tagId": 4,
+          "tagName": "예외"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "createdAt": "2023-06-14T06:34:40.411Z",
+      "updatedAt": "2023-06-14T06:34:40.411Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "지역",
+      "tagStateId": {
+        "id": 1,
+        "tagState": "public"
+      },
+      "tag": [
+        {
+          "tagId": 1,
+          "tagName": "대기중"
+        },
+        {
+          "tagId": 2,
+          "tagName": "진행중"
+        },
+        {
+          "tagId": 3,
+          "tagName": "모집완료"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "createdAt": "2023-06-14T06:36:40.784Z",
+      "updatedAt": "2023-06-14T06:36:40.784Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "선호 연령",
+      "tagStateId": {
+        "id": 1,
+        "tagState": "public"
+      },
+      "tag": [
+        {
+          "tagId": 1,
+          "tagName": "대기중"
+        },
+        {
+          "tagId": 2,
+          "tagName": "진행중"
+        },
+        {
+          "tagId": 3,
+          "tagName": "모집완료"
+        },
+        {
+          "tagId": 4,
+          "tagName": "예외"
+        },
+        {
+          "tagId": 5,
+          "tagName": "대기중"
+        },
+        {
+          "tagId": 6,
+          "tagName": "진행중"
+        },
+        {
+          "tagId": 7,
+          "tagName": "모집완료"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "createdAt": "2023-06-14T06:39:22.677Z",
+      "updatedAt": "2023-06-14T06:39:22.677Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "주요 국가",
+      "tagStateId": {
+        "id": 1,
+        "tagState": "public"
+      },
+      "tag": [
+        {
+          "tagId": 1,
+          "tagName": "대기중"
+        },
+        {
+          "tagId": 2,
+          "tagName": "진행중"
+        },
+        {
+          "tagId": 3,
+          "tagName": "모집완료"
+        },
+        {
+          "tagId": 4,
+          "tagName": "예외"
+        },
+        {
+          "tagId": 5,
+          "tagName": "대기중"
+        },
+        {
+          "tagId": 6,
+          "tagName": "진행중"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "createdAt": "2023-06-14T06:50:23.597Z",
+      "updatedAt": "2023-06-14T06:50:23.597Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "관심사",
+      "tagStateId": {
+        "id": 1,
+        "tagState": "public"
+      },
+      "tag": [
+        {
+          "tagId": 1,
+          "tagName": "대기중"
+        },
+        {
+          "tagId": 2,
+          "tagName": "진행중"
+        },
+        {
+          "tagId": 3,
+          "tagName": "모집완료"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "createdAt": "2023-06-14T06:50:28.365Z",
+      "updatedAt": "2023-06-14T06:50:28.365Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "특기",
+      "tagStateId": {
+        "id": 1,
+        "tagState": "public"
+      },
+      "tag": [
+        {
+          "tagId": 1,
+          "tagName": "대기중"
+        },
+        {
+          "tagId": 2,
+          "tagName": "진행중"
+        },
+        {
+          "tagId": 3,
+          "tagName": "모집완료"
+        },
+        {
+          "tagId": 4,
+          "tagName": "예외"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "createdAt": "2023-06-14T07:21:47.095Z",
+      "updatedAt": "2023-06-14T07:21:47.095Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "팔로워 등급",
+      "tagStateId": {
+        "id": 1,
+        "tagState": "public"
+      },
+      "tag": [
+        {
+          "tagId": 1,
+          "tagName": "대기중"
+        },
+        {
+          "tagId": 2,
+          "tagName": "진행중"
+        },
+        {
+          "tagId": 3,
+          "tagName": "모집완료"
+        },
+        {
+          "tagId": 4,
+          "tagName": "예외"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "createdAt": "2023-06-14T07:31:38.277Z",
+      "updatedAt": "2023-06-14T07:31:38.277Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "지역",
+      "tagStateId": {
+        "id": 1,
+        "tagState": "public"
+      },
+      "tag": [
+        {
+          "tagId": 1,
+          "tagName": "대기중"
+        },
+        {
+          "tagId": 2,
+          "tagName": "진행중"
+        },
+        {
+          "tagId": 3,
+          "tagName": "모집완료"
+        },
+        {
+          "tagId": 4,
+          "tagName": "예외"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "createdAt": "2023-06-14T07:34:20.910Z",
+      "updatedAt": "2023-06-14T07:34:20.910Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "진행상태",
+      "tagStateId": {
+        "id": 1,
+        "tagState": "public"
+      },
+      "tag": [
+        {
+          "tagId": 1,
+          "tagName": "대기중"
+        },
+        {
+          "tagId": 2,
+          "tagName": "진행중"
+        },
+        {
+          "tagId": 3,
+          "tagName": "모집완료"
+        },
+        {
+          "tagId": 4,
+          "tagName": "예외"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "createdAt": "2023-06-14T07:35:54.001Z",
+      "updatedAt": "2023-06-14T07:35:54.001Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "예술분야",
+      "tagStateId": {
+        "id": 1,
+        "tagState": "public"
+      },
+      "tag": [
+        {
+          "tagId": 1,
+          "tagName": "대기중"
+        },
+        {
+          "tagId": 2,
+          "tagName": "진행중"
+        },
+        {
+          "tagId": 3,
+          "tagName": "모집완료"
+        },
+        {
+          "tagId": 4,
+          "tagName": "예외"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "createdAt": "2023-06-14T09:22:04.427Z",
+      "updatedAt": "2023-06-14T09:22:04.427Z",
+      "creatorId": null,
+      "updatorId": null,
+      "tagType": "기타 특이점",
+      "tagStateId": {
+        "id": 1,
+        "tagState": "public"
+      },
+      "tag": [
+        {
+          "tagId": 1,
+          "tagName": "대기중"
+        },
+        {
+          "tagId": 2,
+          "tagName": "진행중"
+        },
+        {
+          "tagId": 3,
+          "tagName": "모집완료"
+        },
+        {
+          "tagId": 4,
+          "tagName": "예외"
+        }
+      ]
+    }
+  ]
+}
